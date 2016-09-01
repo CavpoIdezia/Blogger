@@ -1,7 +1,6 @@
 ﻿sq1	= "<tr><td align=\"center\">1<\/td><td align=\"center\">GK<\/td><td>"+flg1ger+" <b>Kevin Trapp<\/b><\/td><\/tr>";
 sq2	= "<tr><td align=\"center\">2<\/td><td align=\"center\">DF<\/td><td>"+flg1bra+" <b>Thiago Silva<\/b><\/td><\/tr>";
 sq3	= "<tr><td align=\"center\">3<\/td><td align=\"center\">DF<\/td><td>"+flg1fra+" <b>Presnel Kimpembe<\/b><\/td><\/tr>";
-sq4	= "<tr><td align=\"center\">4<\/td><td align=\"center\">MF<\/td><td>"+flg1fra+" <b>Benjamin Stambouli<\/b><\/td><\/tr>";
 sq5	= "<tr><td align=\"center\">5<\/td><td align=\"center\">DF<\/td><td>"+flg1bra+" <b>Marquinhos<\/b><\/td><\/tr>";
 sq6	= "<tr><td align=\"center\">6<\/td><td align=\"center\">MF<\/td><td>"+flg1ita+" <b>Marco Verratti<\/b><\/td><\/tr>";
 sq7	= "<tr><td align=\"center\">7<\/td><td align=\"center\">MF<\/td><td>"+flg1bra+" <b>Lucas Moura<\/b><\/td><\/tr>";
@@ -21,10 +20,11 @@ sq23	= "<tr><td align=\"center\">23<\/td><td align=\"center\">MF<\/td><td>"+flg1
 sq24	= "<tr><td align=\"center\">24<\/td><td align=\"center\">MF<\/td><td>"+flg1fra+" <b>Christopher Nkunku<\/b><\/td><\/tr>";
 sq25	= "<tr><td align=\"center\">25<\/td><td align=\"center\">MF<\/td><td>"+flg1fra+" <b>Adrien Rabiot<\/b><\/td><\/tr>";
 sq29	= "<tr><td align=\"center\">29<\/td><td align=\"center\">FW<\/td><td>"+flg1fra+" <b>Jean-Kévin Augustin<\/b><\/td><\/tr>";
-sq30	= "<tr><td align=\"center\">30<\/td><td align=\"center\">GK<\/td><td>"+flg1ita+" <b>Salvatore Sirigu<\/b><\/td><\/tr>";
-sq32	= "<tr><td align=\"center\">32<\/td><td align=\"center\">DF<\/td><td>"+flg1bra+" <b>David Luiz<\/b><\/td><\/tr>";
+sq34	= "<tr><td align=\"center\">34<\/td><td align=\"center\">DF<\/td><td>"+flg1fra+" <b>Alec Georgen<\/b><\/td><\/tr>";
 sq35	= "<tr><td align=\"center\">35<\/td><td align=\"center\">FW<\/td><td>"+flg1fra+" <b>Hervin Ongenda<\/b><\/td><\/tr>";
+sq36	= "<tr><td align=\"center\">36<\/td><td align=\"center\">MF<\/td><td>"+flg1fra+" <b>Jonathan Ikoné<\/b><\/td><\/tr>";
 sq40	= "<tr><td align=\"center\">40<\/td><td align=\"center\">GK<\/td><td>"+flg1fra+" <b>Rémy Descamps<\/b><\/td><\/tr>";
+sq41	= "<tr><td align=\"center\">41<\/td><td align=\"center\">MF<\/td><td>"+flg1fra+" <b>Lorenzo Callegari<\/b><\/td><\/tr>";
 	
 	
 	
@@ -80,7 +80,7 @@ vicecap	= "<br>"+flg1ita+" <b>Thiago Motta<\/b> (<i>Vice-captain<\/i>)";
 	
 	
 	
-lastud	= "26 "+Aug+" 2016";
-table1	= ""+sq1+""+sq2+""+sq3+""+sq4+""+sq5+""+sq6+""+sq7+""+sq8+""+sq9+""+sq10+""+sq11+""+sq12+""+sq14+""+sq16+"";
-table2	= ""+sq17+""+sq19+""+sq20+""+sq21+""+sq22+""+sq23+""+sq24+""+sq25+""+sq29+""+sq30+""+sq32+""+sq35+""+sq40+"<tr><td colspan=\"3\" align=\"center\">-<\/td><\/tr>";
+lastud	= "(Closing Transfer, 1 "+Sep+" 2016)";
+table1	= ""+sq1+""+sq2+""+sq3+""+sq5+""+sq6+""+sq7+""+sq8+""+sq9+""+sq10+""+sq11+""+sq12+""+sq14+""+sq16+""+sq17+"";
+table2	= ""+sq19+""+sq20+""+sq21+""+sq22+""+sq23+""+sq24+""+sq25+""+sq29+""+sq34+""+sq35+""+sq36+""+sq40+""+sq41+"<tr><td colspan=\"3\" align=\"center\">-<\/td><\/tr>";
 notetim	= ""+captain+""+vicecap+"";
