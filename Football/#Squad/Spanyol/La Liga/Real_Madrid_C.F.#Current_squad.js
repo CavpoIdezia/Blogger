@@ -15,7 +15,7 @@ sq14	= "<tr><td align=\"center\">14<\/td><td align=\"center\">MF<\/td><td>"+flg1
 sq15	= "<tr><td align=\"center\">15<\/td><td align=\"center\">DF<\/td><td>"+flg1por+" <b>Fábio Coentrão<\/b><\/td><\/tr>";
 sq16	= "<tr><td align=\"center\">16<\/td><td align=\"center\">MF<\/td><td>"+flg1cro+" <b>Mateo Kovačić<\/b><\/td><\/tr>";
 sq17	= "<tr><td align=\"center\">17<\/td><td align=\"center\">FW<\/td><td>"+flg1esp+" <b>Lucas Vázquez<\/b><\/td><\/tr>";
-sq18	= "<tr><td align=\"center\">18<\/td><td align=\"center\">FW<\/td><td>"+flg1dom+" <b>Mariano Díaz<\/b><\/td><\/tr>";
+sq18	= "<tr><td align=\"center\">18<\/td><td align=\"center\">FW<\/td><td>"+flg1dom+" <b>Mariano<\/b><\/td><\/tr>";
 sq19	= "<tr><td align=\"center\">19<\/td><td align=\"center\">MF<\/td><td>"+flg1cro+" <b>Luka Modrić<\/b><\/td><\/tr>";
 sq20	= "<tr><td align=\"center\">20<\/td><td align=\"center\">MF<\/td><td>"+flg1esp+" <b>Marco Asensio<\/b><\/td><\/tr>";
 sq21	= "<tr><td align=\"center\">21<\/td><td align=\"center\">FW<\/td><td>"+flg1esp+" <b>Álvaro Morata<\/b><\/td><\/tr>";
@@ -80,7 +80,7 @@ forcapt	= "<br>"+flg1por+" <b>Cristiano Ronaldo<\/b> (<i>4th captain<\/i>)";
 	
 	
 	
-lastud	= "26 "+Aug+" 2016";
+lastud	= "(Closing Transfer, 1 Sep 2016)";
 table1	= ""+sq1+""+sq2+""+sq3+""+sq4+""+sq5+""+sq6+""+sq7+""+sq8+""+sq9+""+sq10+""+sq11+""+sq12+"";
 table2	= ""+sq13+""+sq14+""+sq15+""+sq16+""+sq17+""+sq18+""+sq19+""+sq20+""+sq21+""+sq22+""+sq23+""+sq31+"";
 notetim	= ""+captain+""+vicecap+""+thicapt+""+forcapt+"";

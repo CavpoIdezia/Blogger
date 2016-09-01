@@ -13,7 +13,6 @@ sq13	= "<tr><td align=\"center\">13<\/td><td align=\"center\">GK<\/td><td>"+flg1
 sq14	= "<tr><td align=\"center\">14<\/td><td align=\"center\">MF<\/td><td>"+flg1esp+" <b>Gabi<\/b><\/td><\/tr>";
 sq15	= "<tr><td align=\"center\">15<\/td><td align=\"center\">DF<\/td><td>"+flg1mne+" <b>Stefan Savić<\/b><\/td><\/tr>";
 sq16	= "<tr><td align=\"center\">16<\/td><td align=\"center\">DF<\/td><td>"+flg1cro+" <b>Šime Vrsaljko<\/b><\/td><\/tr>";
-sq18	= "<tr><td align=\"center\">18<\/td><td align=\"center\">MF<\/td><td>"+flg1por+" <b>Diogo Jota<\/b><\/td><\/tr>";
 sq19	= "<tr><td align=\"center\">19<\/td><td align=\"center\">DF<\/td><td>"+flg1fra+" <b>Lucas Hernández<\/b><\/td><\/tr>";
 sq20	= "<tr><td align=\"center\">20<\/td><td align=\"center\">DF<\/td><td>"+flg1esp+" <b>Juanfran<\/b><\/td><\/tr>";
 sq21	= "<tr><td align=\"center\">21<\/td><td align=\"center\">FW<\/td><td>"+flg1fra+" <b>Kévin Gameiro<\/b><\/td><\/tr>";
@@ -21,7 +20,8 @@ sq22	= "<tr><td align=\"center\">22<\/td><td align=\"center\">MF<\/td><td>"+flg1
 sq23	= "<tr><td align=\"center\">23<\/td><td align=\"center\">MF<\/td><td>"+flg1arg+" <b>Nicolás Gaitán<\/b><\/td><\/tr>";
 sq24	= "<tr><td align=\"center\">24<\/td><td align=\"center\">DF<\/td><td>"+flg1uru+" <b>José Giménez<\/b><\/td><\/tr>";
 sq25	= "<tr><td align=\"center\">25<\/td><td align=\"center\">GK<\/td><td>"+flg1por+" <b>André Moreira<\/b><\/td><\/tr>";
-sq26	= "<tr><td align=\"center\">26<\/td><td align=\"center\">MF<\/td><td>"+flg1ita+" <b>Alessio Cerci<\/b><\/td><\/tr>";
+sqx1	= "<tr><td align=\"center\">—<\/td><td align=\"center\">MF<\/td><td>"+flg1ita+" <b>Alessio Cerci<\/b><\/td><\/tr>";
+	
 	
 	
 	
@@ -80,7 +80,7 @@ vicecap	= "<br>"+flg1uru+" <b>Diego Godín<\/b> (<i>Vice-captain<\/i>)";
 	
 	
 	
-lastud	= "26 "+Aug+" 2016";
+lastud	= "(Closing Transfer, 1 Sep 2016)";
 table1	= ""+sq1+""+sq2+""+sq3+""+sq5+""+sq6+""+sq7+""+sq8+""+sq9+""+sq10+""+sq11+""+sq12+""+sq13+"";
-table2	= ""+sq14+""+sq15+""+sq16+""+sq18+""+sq19+""+sq20+""+sq21+""+sq22+""+sq23+""+sq24+""+sq25+""+sq26+"";
+table2	= ""+sq14+""+sq15+""+sq16+""+sq19+""+sq20+""+sq21+""+sq22+""+sq23+""+sq24+""+sq25+""+sqx1+"<tr><td colspan=\"3\" align=\"center\">-<\/td><\/tr>";
 notetim	= ""+captain+""+vicecap+"";

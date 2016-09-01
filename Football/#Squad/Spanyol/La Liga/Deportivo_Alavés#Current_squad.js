@@ -25,7 +25,7 @@ sq24	= "<tr><td align=\"center\">24<\/td><td align=\"center\">DF<\/td><td>"+flg1
 sq26	= "<tr><td align=\"center\">26<\/td><td align=\"center\">MF<\/td><td>"+flg1esp+" <b>Manu García Alonso<\/b><\/td><\/tr>";
 sq27	= "<tr><td align=\"center\">27<\/td><td align=\"center\">DF<\/td><td>"+flg1esp+" <b>Einar Galilea<\/b><\/td><\/tr>";
 sq28	= "<tr><td align=\"center\">28<\/td><td align=\"center\">FW<\/td><td>"+flg1esp+" <b>Dani Iglesias<\/b><\/td><\/tr>";
-	
+sqx1	= "<tr><td align=\"center\">—<\/td><td align=\"center\">FW<\/td><td>"+flg1srb+" <b>Aleksandar Katai<\/b><\/td><\/tr>";
 	
 	
 	
@@ -80,7 +80,7 @@ loan8	= "<br>"+flg1bra+" <b>Deyverson<\/b> (<i>"+onloan+" <a href=\"http://www.i
 loan9	= "<br>"+flg1esp+" <b>Manu García Alonso<\/b> (<i>"+onloan+" <a href=\"http://www.idezia.com/2016/06/Manchester.City.2016-17.Skuad.html\">Manchester City<\/a><\/i>)";
 	
 	
-lastud	= "26 "+Aug+" 2016";
+lastud	= "(Closing Transfer, 1 Sep 2016)";
 table1	= ""+sq1+""+sq2+""+sq3+""+sq4+""+sq5+""+sq6+""+sq7+""+sq8+""+sq9+""+sq10+""+sq11+""+sq12+""+sq13+""+sq14+"";
-table2	= ""+sq15+""+sq16+""+sq17+""+sq18+""+sq19+""+sq20+""+sq21+""+sq22+""+sq23+""+sq24+""+sq26+""+sq27+""+sq28+"<tr><td colspan=\"3\" align=\"center\">-<\/td><\/tr>";
+table2	= ""+sq15+""+sq16+""+sq17+""+sq18+""+sq19+""+sq20+""+sq21+""+sq22+""+sq23+""+sq24+""+sq26+""+sq27+""+sq28+""+sqx1+"";
 notetim	= ""+captain+""+loan1+""+loan2+""+loan3+""+loan4+""+loan5+""+loan6+""+loan7+""+loan8+""+loan9+"";

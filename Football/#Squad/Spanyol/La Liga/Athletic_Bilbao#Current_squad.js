@@ -18,13 +18,13 @@ sq17	= "<tr><td align=\"center\">17<\/td><td align=\"center\">MF<\/td><td>"+flg1
 sq18	= "<tr><td align=\"center\">18<\/td><td align=\"center\">MF<\/td><td>"+flg1esp+" <b>Óscar de Marcos<\/b><\/td><\/tr>";
 sq19	= "<tr><td align=\"center\">19<\/td><td align=\"center\">FW<\/td><td>"+flg1esp+" <b>Sabin Merino<\/b><\/td><\/tr>";
 sq20	= "<tr><td align=\"center\">20<\/td><td align=\"center\">FW<\/td><td>"+flg1esp+" <b>Aritz Aduriz<\/b><\/td><\/tr>";
-sq21	= "<tr><td align=\"center\">21<\/td><td align=\"center\">FW<\/td><td>"+flg1esp+" <b>Borja Viguera<\/b><\/td><\/tr>";
 sq22	= "<tr><td align=\"center\">22<\/td><td align=\"center\">MF<\/td><td>"+flg1esp+" <b>Raúl García<\/b><\/td><\/tr>";
 sq23	= "<tr><td align=\"center\">23<\/td><td align=\"center\">MF<\/td><td>"+flg1esp+" <b>Ager Aketxe<\/b><\/td><\/tr>";
 sq24	= "<tr><td align=\"center\">24<\/td><td align=\"center\">DF<\/td><td>"+flg1esp+" <b>Mikel Balenziaga<\/b><\/td><\/tr>";
 sq25	= "<tr><td align=\"center\">25<\/td><td align=\"center\">DF<\/td><td>"+flg1esp+" <b>Enric Saborit<\/b><\/td><\/tr>";
 sq26	= "<tr><td align=\"center\">26<\/td><td align=\"center\">GK<\/td><td>"+flg1esp+" <b>Kepa Arrizabalaga<\/b><\/td><\/tr>";
 sq27	= "<tr><td align=\"center\">27<\/td><td align=\"center\">DF<\/td><td>"+flg1esp+" <b>Yeray Álvarez<\/b><\/td><\/tr>";
+	
 	
 	
 	
@@ -80,7 +80,7 @@ thicapt	= "<br>"+flg1esp+" <b>Ander Iturraspe<\/b> (<i>3rd captain<\/i>)";
 	
 	
 	
-lastud	= "26 "+Aug+" 2016";
-table1	= ""+sq1+""+sq2+""+sq3+""+sq4+""+sq5+""+sq6+""+sq7+""+sq8+""+sq9+""+sq10+""+sq11+""+sq12+""+sq13+""+sq14+"";
-table2	= ""+sq15+""+sq16+""+sq17+""+sq18+""+sq19+""+sq20+""+sq21+""+sq22+""+sq23+""+sq24+""+sq25+""+sq26+""+sq27+"<tr><td colspan=\"3\" align=\"center\">-<\/td><\/tr>";
+lastud	= "(Closing Transfer, 1 Sep 2016)";
+table1	= ""+sq1+""+sq2+""+sq3+""+sq4+""+sq5+""+sq6+""+sq7+""+sq8+""+sq9+""+sq10+""+sq11+""+sq12+""+sq13+"";
+table2	= ""+sq14+""+sq15+""+sq16+""+sq17+""+sq18+""+sq19+""+sq20+""+sq22+""+sq23+""+sq24+""+sq25+""+sq26+""+sq27+"";
 notetim	= ""+captain+""+vicecap+""+thicapt+"";

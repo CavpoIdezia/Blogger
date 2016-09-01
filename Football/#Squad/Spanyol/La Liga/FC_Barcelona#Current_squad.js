@@ -1,5 +1,4 @@
 ﻿sq1	= "<tr><td align=\"center\">1<\/td><td align=\"center\">GK<\/td><td>"+flg1ger+" <b>Marc-André ter Stegen<\/b><\/td><\/tr>";
-sq2	= "<tr><td align=\"center\">2<\/td><td align=\"center\">DF<\/td><td>"+flg1bra+" <b>Douglas<\/b><\/td><\/tr>";
 sq3	= "<tr><td align=\"center\">3<\/td><td align=\"center\">DF<\/td><td>"+flg1esp+" <b>Gerard Piqué<\/b><\/td><\/tr>";
 sq4	= "<tr><td align=\"center\">4<\/td><td align=\"center\">MF<\/td><td>"+flg1cro+" <b>Ivan Rakitić<\/b><\/td><\/tr>";
 sq5	= "<tr><td align=\"center\">5<\/td><td align=\"center\">MF<\/td><td>"+flg1esp+" <b>Sergio Busquets<\/b><\/td><\/tr>";
@@ -12,8 +11,7 @@ sq11	= "<tr><td align=\"center\">11<\/td><td align=\"center\">FW<\/td><td>"+flg1
 sq12	= "<tr><td align=\"center\">12<\/td><td align=\"center\">MF<\/td><td>"+flg1bra+" <b>Rafinha<\/b><\/td><\/tr>";
 sq13	= "<tr><td align=\"center\">13<\/td><td align=\"center\">GK<\/td><td>"+flg1ned+" <b>Jasper Cillessen<\/b><\/td><\/tr>";
 sq14	= "<tr><td align=\"center\">14<\/td><td align=\"center\">MF<\/td><td>"+flg1arg+" <b>Javier Mascherano<\/b><\/td><\/tr>";
-sq16	= "<tr><td align=\"center\">16<\/td><td align=\"center\">MF<\/td><td>"+flg1esp+" <b>Sergi Samper<\/b><\/td><\/tr>";
-sq17	= "<tr><td align=\"center\">17<\/td><td align=\"center\">FW<\/td><td>"+flg1esp+" <b>Munir El Haddadi<\/b><\/td><\/tr>";
+sq17	= "<tr><td align=\"center\">17<\/td><td align=\"center\">FW<\/td><td>"+flg1esp+" <b>Paco Alcácer<\/b><\/td><\/tr>";
 sq18	= "<tr><td align=\"center\">18<\/td><td align=\"center\">DF<\/td><td>"+flg1esp+" <b>Jordi Alba<\/b><\/td><\/tr>";
 sq19	= "<tr><td align=\"center\">19<\/td><td align=\"center\">DF<\/td><td>"+flg1fra+" <b>Lucas Digne<\/b><\/td><\/tr>";
 sq20	= "<tr><td align=\"center\">20<\/td><td align=\"center\">MF<\/td><td>"+flg1esp+" <b>Sergi Roberto<\/b><\/td><\/tr>";
@@ -22,6 +20,8 @@ sq22	= "<tr><td align=\"center\">22<\/td><td align=\"center\">DF<\/td><td>"+flg1
 sq23	= "<tr><td align=\"center\">23<\/td><td align=\"center\">DF<\/td><td>"+flg1fra+" <b>Samuel Umtiti<\/b><\/td><\/tr>";
 sq24	= "<tr><td align=\"center\">24<\/td><td align=\"center\">DF<\/td><td>"+flg1fra+" <b>Jérémy Mathieu<\/b><\/td><\/tr>";
 sq25	= "<tr><td align=\"center\">25<\/td><td align=\"center\">GK<\/td><td>"+flg1esp+" <b>Jordi Masip<\/b><\/td><\/tr>";
+	
+	
 	
 	
 	
@@ -80,7 +80,7 @@ forcapt	= "<br>"+flg1arg+" <b>Javier Mascherano<\/b> (<i>4th captain<\/i>)";
 	
 	
 	
-lastud	= "26 "+Aug+" 2016";
-table1	= ""+sq1+""+sq2+""+sq3+""+sq4+""+sq5+""+sq6+""+sq7+""+sq8+""+sq9+""+sq10+""+sq11+""+sq12+"";
-table2	= ""+sq13+""+sq14+""+sq16+""+sq17+""+sq18+""+sq19+""+sq20+""+sq21+""+sq22+""+sq23+""+sq24+""+sq25+"";
+lastud	= "(Closing Transfer, 1 Sep 2016)";
+table1	= ""+sq1+""+sq3+""+sq4+""+sq5+""+sq6+""+sq7+""+sq8+""+sq9+""+sq10+""+sq11+""+sq12+"";
+table2	= ""+sq13+""+sq14+""+sq17+""+sq18+""+sq19+""+sq20+""+sq21+""+sq22+""+sq23+""+sq24+""+sq25+"";
 notetim	= ""+captain+""+vicecap+""+thicapt+""+forcapt+"";

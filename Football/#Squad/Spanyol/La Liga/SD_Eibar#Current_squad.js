@@ -11,16 +11,16 @@ sq11	= "<tr><td align=\"center\">11<\/td><td align=\"center\">MF<\/td><td>"+flg1
 sq13	= "<tr><td align=\"center\">13<\/td><td align=\"center\">GK<\/td><td>"+flg1esp+" <b>Asier Riesgo<\/b><\/td><\/tr>";
 sq14	= "<tr><td align=\"center\">14<\/td><td align=\"center\">MF<\/td><td>"+flg1esp+" <b>Dani García<\/b><\/td><\/tr>";
 sq15	= "<tr><td align=\"center\">15<\/td><td align=\"center\">DF<\/td><td>"+flg1arg+" <b>Mauro dos Santos<\/b><\/td><\/tr>";
+sq16	= "<tr><td align=\"center\">16<\/td><td align=\"center\">MF<\/td><td>"+flg1esp+" <b>Fran Rico<\/b><\/td><\/tr>";
 sq17	= "<tr><td align=\"center\">17<\/td><td align=\"center\">FW<\/td><td>"+flg1esp+" <b>Kike<\/b><\/td><\/tr>";
+sq18	= "<tr><td align=\"center\">18<\/td><td align=\"center\">DF<\/td><td>"+flg1esp+" <b>Anaitz Arbilla<\/b><\/td><\/tr>";
 sq19	= "<tr><td align=\"center\">19<\/td><td align=\"center\">DF<\/td><td>"+flg1esp+" <b>Antonio Luna<\/b><\/td><\/tr>";
 sq20	= "<tr><td align=\"center\">20<\/td><td align=\"center\">DF<\/td><td>"+flg1fra+" <b>Florian Lejeune<\/b><\/td><\/tr>";
 sq21	= "<tr><td align=\"center\">21<\/td><td align=\"center\">MF<\/td><td>"+flg1esp+" <b>Pedro León<\/b><\/td><\/tr>";
+sq22	= "<tr><td align=\"center\">22<\/td><td align=\"center\">FW<\/td><td>"+flg1esp+" <b>Nano<\/b><\/td><\/tr>";
 sq23	= "<tr><td align=\"center\">23<\/td><td align=\"center\">DF<\/td><td>"+flg1esp+" <b>David Juncà<\/b><\/td><\/tr>";
 sq24	= "<tr><td align=\"center\">24<\/td><td align=\"center\">MF<\/td><td>"+flg1esp+" <b>Adrián González<\/b><\/td><\/tr>";
 sq25	= "<tr><td align=\"center\">25<\/td><td align=\"center\">FW<\/td><td>"+flg1por+" <b>Bebé<\/b><\/td><\/tr>";
-	
-	
-	
 	
 	
 	
@@ -71,6 +71,7 @@ captain	= "<br>"+flg1esp+" <b>Dani García<\/b> (<i>Captain<\/i>)";
 	
 loan1	= "<br>"+flg1esp+" <b>Yoel Rodríguez<\/b> (<i>"+onloan+" <a href=\"http://www.idezia.com/2016/07/Valencia.C.F.2016-17.Skuad.dan.Pemain.html\">Valencia<\/a><\/i>)";
 loan2	= "<br>"+flg1esp+" <b>Jota<\/b> (<i>"+onloan+" <a href=\"http://www.idezia.com/2016/08/Brentford.F.C.2016-17.Squad.html\">Brentford<\/a><\/i>)";
+loan3	= "<br>"+flg1esp+" <b>Fran Rico<\/b> (<i>"+onloan+" <a href=\"http://www.idezia.com/2016/07/Granada.CF.2016-17.Squad.html\">Granada<\/a><\/i>)";
 	
 	
 	
@@ -79,8 +80,7 @@ loan2	= "<br>"+flg1esp+" <b>Jota<\/b> (<i>"+onloan+" <a href=\"http://www.idezia
 	
 	
 	
-	
-lastud	= "26 "+Aug+" 2016";
-table1	= ""+sq1+""+sq3+""+sq4+""+sq5+""+sq6+""+sq7+""+sq8+""+sq9+""+sq10+""+sq11+"";
-table2	= ""+sq13+""+sq14+""+sq15+""+sq17+""+sq19+""+sq20+""+sq21+""+sq23+""+sq24+""+sq25+"";
-notetim	= ""+captain+""+loan1+""+loan2+"";
+lastud	= "(Closing Transfer, 1 Sep 2016)";
+table1	= ""+sq1+""+sq3+""+sq4+""+sq5+""+sq6+""+sq7+""+sq8+""+sq9+""+sq10+""+sq11+""+sq13+""+sq14+"";
+table2	= ""+sq15+""+sq16+""+sq17+""+sq18+""+sq19+""+sq20+""+sq21+""+sq22+""+sq23+""+sq24+""+sq25+"<tr><td colspan=\"3\" align=\"center\">-<\/td><\/tr>";
+notetim	= ""+captain+""+loan1+""+loan2+""+loan3+"";
