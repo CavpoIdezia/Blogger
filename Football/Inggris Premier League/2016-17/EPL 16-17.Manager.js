@@ -16,7 +16,7 @@ function getAge(birth) {
 }
 
 
-sbg1 = "<tr><td>";
+sbg1 = "<tr><td>"; 
 sbg2 = "<\/td><td>";
 sbg3 = "<\/td><td align=\"center\">";
 sbg4 = "<\/td><\/tr>";
