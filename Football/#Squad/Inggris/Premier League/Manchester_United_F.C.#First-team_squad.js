@@ -26,8 +26,8 @@ sq31	= "<tr><td align=\"center\">31<\/td><td align=\"center\">MF<\/td><td>"+flg1
 sq32	= "<tr><td align=\"center\">32<\/td><td align=\"center\">GK<\/td><td>"+flg1eng+" <b>Sam Johnstone<\/b><\/td><\/tr>";
 sq36	= "<tr><td align=\"center\">36<\/td><td align=\"center\">DF<\/td><td>"+flg1ita+" <b>Matteo Darmian<\/b><\/td><\/tr>";
 sq38	= "<tr><td align=\"center\">38<\/td><td align=\"center\">DF<\/td><td>"+flg1eng+" <b>Axel Tuanzebe<\/b><\/td><\/tr>";
-sq44	= "<tr><td align=\"center\">44<\/td><td align=\"center\">MF<\/td><td>"+flg1bra+" <b>Andreas Pereira<\/b><\/td><\/tr>";
-sq48	= "<tr><td align=\"center\">48<\/td><td align=\"center\">FW<\/td><td>"+flg1eng+" <b>Will Keane<\/b><\/td><\/tr>";
+	
+	
 	
 	
 	
@@ -80,7 +80,7 @@ thicapt	= "<br>"+flg1swe+" <b>Zlatan Ibrahimović<\/b> (<i>3rd captain<\/i>)";
 	
 	
 	
-lastud	= "26 "+Aug+" 2016";
-table1	= ""+sq1+""+sq3+""+sq4+""+sq5+""+sq6+""+sq7+""+sq8+""+sq9+""+sq10+""+sq11+""+sq12+""+sq14+""+sq16+""+sq17+""+sq18+"";
-table2	= ""+sq19+""+sq20+""+sq21+""+sq22+""+sq23+""+sq24+""+sq25+""+sq27+""+sq28+""+sq31+""+sq32+""+sq36+""+sq38+""+sq44+""+sq48+"";
+lastud	= "(Closing Transfer, 1 Sep 2016)";
+table1	= ""+sq1+""+sq3+""+sq4+""+sq5+""+sq6+""+sq7+""+sq8+""+sq9+""+sq10+""+sq11+""+sq12+""+sq14+""+sq16+""+sq17+"";
+table2	= ""+sq18+""+sq19+""+sq20+""+sq21+""+sq22+""+sq23+""+sq24+""+sq25+""+sq27+""+sq28+""+sq31+""+sq32+""+sq36+""+sq38+"";
 notetim	= ""+captain+""+vicecap+""+thicapt+"";

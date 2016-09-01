@@ -24,14 +24,14 @@ sq27	= "<tr><td align=\"center\">27<\/td><td align=\"center\">FW<\/td><td>"+flg1
 sq28	= "<tr><td align=\"center\">28<\/td><td align=\"center\">FW<\/td><td>"+flg1eng+" <b>Danny Ings<\/b><\/td><\/tr>";
 sq32	= "<tr><td align=\"center\">32<\/td><td align=\"center\">DF<\/td><td>"+flg1cmr+" <b>Joël Matip<\/b><\/td><\/tr>";
 sq35	= "<tr><td align=\"center\">35<\/td><td align=\"center\">MF<\/td><td>"+flg1eng+" <b>Kevin Stewart<\/b><\/td><\/tr>";
-sq45	= "<tr><td align=\"center\">45<\/td><td align=\"center\">FW<\/td><td>"+flg1ita+" <b>Mario Balotelli<\/b><\/td><\/tr>";
-sq47	= "<tr><td align=\"center\">47<\/td><td align=\"center\">DF<\/td><td>"+flg1eng+" <b>Andre Wisdom<\/b><\/td><\/tr>";
-sq50	= "<tr><td align=\"center\">50<\/td><td align=\"center\">MF<\/td><td>"+flg1srb+" <b>Lazar Marković<\/b><\/td><\/tr>";
 sq54	= "<tr><td align=\"center\">54<\/td><td align=\"center\">MF<\/td><td>"+flg1eng+" <b>Sheyi Ojo<\/b><\/td><\/tr>";
 sq56	= "<tr><td align=\"center\">56<\/td><td align=\"center\">DF<\/td><td>"+flg1eng+" <b>Connor Randall<\/b><\/td><\/tr>";
 sq68	= "<tr><td align=\"center\">68<\/td><td align=\"center\">MF<\/td><td>"+flg1esp+" <b>Pedro Chirivella<\/b><\/td><\/tr>";
-sqx1	= "<tr><td align=\"center\">—<\/td><td align=\"center\">MF<\/td><td>"+flg1esp+" <b>Luis Alberto<\/b><\/td><\/tr>";
-sqx2	= "<tr><td align=\"center\">—<\/td><td align=\"center\">FW<\/td><td>"+flg1nga+" <b>Taiwo Awoniyi<\/b><\/td><\/tr>";
+	
+	
+	
+	
+	
 	
 	
 	
@@ -80,7 +80,7 @@ thicapt	= "<br>"+flg1bra+" <b>Lucas Leiva<\/b> (<i>3rd captain<\/i>)";
 	
 	
 	
-lastud	= "26 "+Aug+" 2016";
-table1	= ""+sq1+""+sq2+""+sq3+""+sq5+""+sq6+""+sq7+""+sq10+""+sq11+""+sq12+""+sq13+""+sq14+""+sq15+""+sq16+""+sq17+""+sq18+""+sq19+""+sq20+"";
-table2	= ""+sq21+""+sq22+""+sq23+""+sq25+""+sq26+""+sq27+""+sq28+""+sq32+""+sq35+""+sq45+""+sq47+""+sq50+""+sq54+""+sq56+""+sq68+""+sqx1+""+sqx2+"";
+lastud	= "(Closing Transfer, 1 Sep 2016)";
+table1	= ""+sq1+""+sq2+""+sq3+""+sq5+""+sq6+""+sq7+""+sq10+""+sq11+""+sq12+""+sq13+""+sq14+""+sq15+""+sq16+""+sq17+""+sq18+"";
+table2	= ""+sq19+""+sq20+""+sq21+""+sq22+""+sq23+""+sq25+""+sq26+""+sq27+""+sq28+""+sq32+""+sq35+""+sq54+""+sq56+""+sq68+"<tr><td colspan=\"3\" align=\"center\">-<\/td><\/tr>";
 notetim	= ""+captain+""+vicecap+""+thicapt+"";

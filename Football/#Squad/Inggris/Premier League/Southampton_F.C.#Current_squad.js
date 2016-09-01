@@ -15,16 +15,16 @@ sq15	= "<tr><td align=\"center\">15<\/td><td align=\"center\">DF<\/td><td>"+flg1
 sq16	= "<tr><td align=\"center\">16<\/td><td align=\"center\">MF<\/td><td>"+flg1eng+" <b>James Ward-Prowse<\/b><\/td><\/tr>";
 sq17	= "<tr><td align=\"center\">17<\/td><td align=\"center\">DF<\/td><td>"+flg1ned+" <b>Virgil van Dijk<\/b><\/td><\/tr>";
 sq18	= "<tr><td align=\"center\">18<\/td><td align=\"center\">MF<\/td><td>"+flg1eng+" <b>Harrison Reed<\/b><\/td><\/tr>";
+sq19	= "<tr><td align=\"center\">19<\/td><td align=\"center\">MF<\/td><td>"+flg1mar+" <b>Sofiane Boufal<\/b><\/td><\/tr>";
 sq21	= "<tr><td align=\"center\">21<\/td><td align=\"center\">DF<\/td><td>"+flg1eng+" <b>Ryan Bertrand<\/b><\/td><\/tr>";
 sq22	= "<tr><td align=\"center\">22<\/td><td align=\"center\">MF<\/td><td>"+flg1eng+" <b>Nathan Redmond<\/b><\/td><\/tr>";
 sq23	= "<tr><td align=\"center\">23<\/td><td align=\"center\">MF<\/td><td>"+flg1den+" <b>Pierre-Emile Højbjerg<\/b><\/td><\/tr>";
 sq24	= "<tr><td align=\"center\">24<\/td><td align=\"center\">DF<\/td><td>"+flg1eng+" <b>Jack Stephens<\/b><\/td><\/tr>";
 sq26	= "<tr><td align=\"center\">26<\/td><td align=\"center\">DF<\/td><td>"+flg1fra+" <b>Jérémy Pied<\/b><\/td><\/tr>";
 sq27	= "<tr><td align=\"center\">27<\/td><td align=\"center\">MF<\/td><td>"+flg1wal+" <b>Lloyd Isgrove<\/b><\/td><\/tr>";
+sq28	= "<tr><td align=\"center\">28<\/td><td align=\"center\">GK<\/td><td>"+flg1eng+" <b>Stuart Taylor<\/b><\/td><\/tr>";
 sq33	= "<tr><td align=\"center\">33<\/td><td align=\"center\">DF<\/td><td>"+flg1eng+" <b>Matt Targett<\/b><\/td><\/tr>";
 sq38	= "<tr><td align=\"center\">38<\/td><td align=\"center\">MF<\/td><td>"+flg1eng+" <b>Sam McQueen<\/b><\/td><\/tr>";
-	
-	
 	
 	
 	
@@ -80,7 +80,7 @@ vicecap	= "<br>"+flg1nir+" <b>Steven Davis<\/b> (<i>Vice-captain<\/i>)";
 	
 	
 	
-lastud	= "26 "+Aug+" 2016";
-table1	= ""+sq1+""+sq2+""+sq3+""+sq4+""+sq5+""+sq6+""+sq7+""+sq8+""+sq9+""+sq10+""+sq11+""+sq13+""+sq14+"";
-table2	= ""+sq15+""+sq16+""+sq17+""+sq18+""+sq21+""+sq22+""+sq23+""+sq24+""+sq26+""+sq27+""+sq33+""+sq38+"<tr><td colspan=\"3\" align=\"center\">-<\/td><\/tr>";
+lastud	= "(Closing Transfer, 1 Sep 2016)";
+table1	= ""+sq1+""+sq2+""+sq3+""+sq4+""+sq5+""+sq6+""+sq7+""+sq8+""+sq9+""+sq10+""+sq11+""+sq13+""+sq14+""+sq15+"";
+table2	= ""+sq16+""+sq17+""+sq18+""+sq19+""+sq21+""+sq22+""+sq23+""+sq24+""+sq26+""+sq27+""+sq28+""+sq33+""+sq38+"<tr><td colspan=\"3\" align=\"center\">-<\/td><\/tr>";
 notetim	= ""+captain+""+vicecap+"";

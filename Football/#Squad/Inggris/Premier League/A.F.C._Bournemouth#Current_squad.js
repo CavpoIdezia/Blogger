@@ -12,6 +12,7 @@ sq11	= "<tr><td align=\"center\">11<\/td><td align=\"center\">DF<\/td><td>"+flg1
 sq13	= "<tr><td align=\"center\">13<\/td><td align=\"center\">FW<\/td><td>"+flg1eng+" <b>Callum Wilson<\/b><\/td><\/tr>";
 sq14	= "<tr><td align=\"center\">14<\/td><td align=\"center\">DF<\/td><td>"+flg1aus+" <b>Brad Smith<\/b><\/td><\/tr>";
 sq15	= "<tr><td align=\"center\">15<\/td><td align=\"center\">DF<\/td><td>"+flg1eng+" <b>Adam Smith<\/b><\/td><\/tr>";
+sq16	= "<tr><td align=\"center\">16<\/td><td align=\"center\">MF<\/td><td>"+flg1eng+" <b>Jack Wilshere<\/b><\/td><\/tr>";
 sq17	= "<tr><td align=\"center\">17<\/td><td align=\"center\">MF<\/td><td>"+flg1nor+" <b>Joshua King<\/b><\/td><\/tr>";
 sq18	= "<tr><td align=\"center\">18<\/td><td align=\"center\">MF<\/td><td>"+flg1eng+" <b>Lewis Cook<\/b><\/td><\/tr>";
 sq19	= "<tr><td align=\"center\">19<\/td><td align=\"center\">MF<\/td><td>"+flg1eng+" <b>Junior Stanislas<\/b><\/td><\/tr>";
@@ -22,12 +23,11 @@ sq23	= "<tr><td align=\"center\">23<\/td><td align=\"center\">GK<\/td><td>"+flg1
 sq24	= "<tr><td align=\"center\">24<\/td><td align=\"center\">MF<\/td><td>"+flg1sco+" <b>Ryan Fraser<\/b><\/td><\/tr>";
 sq26	= "<tr><td align=\"center\">26<\/td><td align=\"center\">DF<\/td><td>"+flg1eng+" <b>Tyrone Mings<\/b><\/td><\/tr>";
 sq28	= "<tr><td align=\"center\">28<\/td><td align=\"center\">FW<\/td><td>"+flg1jam+" <b>Lewis Grabban<\/b><\/td><\/tr>";
-sq29	= "<tr><td align=\"center\">29<\/td><td align=\"center\">DF<\/td><td>"+flg1wal+" <b>Rhoys Wiggins<\/b><\/td><\/tr>";
 sq31	= "<tr><td align=\"center\">31<\/td><td align=\"center\">FW<\/td><td>"+flg1fra+" <b>Lys Mousset<\/b><\/td><\/tr>";
-sq32	= "<tr><td align=\"center\">32<\/td><td align=\"center\">MF<\/td><td>"+flg1irl+" <b>Eunan O'Kane<\/b><\/td><\/tr>";
 sq33	= "<tr><td align=\"center\">33<\/td><td align=\"center\">MF<\/td><td>"+flg1eng+" <b>Jordon Ibe<\/b><\/td><\/tr>";
-sq38	= "<tr><td align=\"center\">38<\/td><td align=\"center\">DF<\/td><td>"+flg1eng+" <b>Baily Cargill<\/b><\/td><\/tr>";
-sqx1	= "<tr><td align=\"center\">—<\/td><td align=\"center\">FW<\/td><td>"+flg1rsa+" <b>Tokelo Rantie<\/b><\/td><\/tr>";
+	
+	
+	
 	
 	
 	
@@ -70,6 +70,7 @@ captain	= "<br>"+flg1eng+" <b>Simon Francis<\/b> (<i>Captain<\/i>)";
 	
 	
 loan1	= "<br>"+flg1ned+" <b>Nathan Aké<\/b> (<i>"+onloan+" <a href=\"http://www.idezia.com/2016/06/Chelsea.F.C.2016-17.Skuad.html\">Chelsea<\/a><\/i>)";
+loan2	= "<br>"+flg1eng+" <b>Jack Wilshere<\/b> (<i>"+onloan+" <a href=\"http://www.idezia.com/2016/06/Arsenal.F.C.2016-17.Skuad.html\">Arsenal<\/a><\/i>)";
 	
 	
 	
@@ -79,8 +80,7 @@ loan1	= "<br>"+flg1ned+" <b>Nathan Aké<\/b> (<i>"+onloan+" <a href=\"http://www
 	
 	
 	
-	
-lastud	= "26 "+Aug+" 2016";
-table1	= ""+sq1+""+sq2+""+sq3+""+sq4+""+sq5+""+sq6+""+sq7+""+sq8+""+sq9+""+sq10+""+sq11+""+sq13+""+sq14+""+sq15+""+sq17+"";
-table2	= ""+sq18+""+sq19+""+sq20+""+sq21+""+sq22+""+sq23+""+sq24+""+sq26+""+sq28+""+sq29+""+sq31+""+sq32+""+sq33+""+sq38+""+sqx1+"";
-notetim	= ""+captain+""+loan1+"";
+lastud	= "(Closing Transfer, 1 Sep 2016)";
+table1	= ""+sq1+""+sq2+""+sq3+""+sq4+""+sq5+""+sq6+""+sq7+""+sq8+""+sq9+""+sq10+""+sq11+""+sq13+""+sq14+""+sq15+"";
+table2	= ""+sq16+""+sq17+""+sq18+""+sq19+""+sq20+""+sq21+""+sq22+""+sq23+""+sq24+""+sq26+""+sq28+""+sq31+""+sq33+"<tr><td colspan=\"3\" align=\"center\">-<\/td><\/tr>";
+notetim	= ""+captain+""+loan1+""+loan2+"";

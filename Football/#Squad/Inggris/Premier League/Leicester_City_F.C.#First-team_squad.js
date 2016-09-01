@@ -9,10 +9,12 @@ sq8	= "<tr><td align=\"center\">8<\/td><td align=\"center\">MF<\/td><td>"+flg1en
 sq9	= "<tr><td align=\"center\">9<\/td><td align=\"center\">FW<\/td><td>"+flg1eng+" <b>Jamie Vardy<\/b><\/td><\/tr>";
 sq10	= "<tr><td align=\"center\">10<\/td><td align=\"center\">MF<\/td><td>"+flg1wal+" <b>Andy King<\/b><\/td><\/tr>";
 sq11	= "<tr><td align=\"center\">11<\/td><td align=\"center\">MF<\/td><td>"+flg1eng+" <b>Marc Albrighton<\/b><\/td><\/tr>";
+sq12	= "<tr><td align=\"center\">12<\/td><td align=\"center\">GK<\/td><td>"+flg1eng+" <b>Ben Hamer<\/b><\/td><\/tr>";
 sq13	= "<tr><td align=\"center\">13<\/td><td align=\"center\">MF<\/td><td>"+flg1gha+" <b>Daniel Amartey<\/b><\/td><\/tr>";
 sq14	= "<tr><td align=\"center\">14<\/td><td align=\"center\">MF<\/td><td>"+flg1pol+" <b>Bartosz Kapustka<\/b><\/td><\/tr>";
-sq15	= "<tr><td align=\"center\">15<\/td><td align=\"center\">DF<\/td><td>"+flg1gha+" <b>Jeff Schlupp<\/b><\/td><\/tr>";
+sq15	= "<tr><td align=\"center\">15<\/td><td align=\"center\">MF<\/td><td>"+flg1gha+" <b>Jeff Schlupp<\/b><\/td><\/tr>";
 sq17	= "<tr><td align=\"center\">17<\/td><td align=\"center\">DF<\/td><td>"+flg1eng+" <b>Danny Simpson<\/b><\/td><\/tr>";
+sq19	= "<tr><td align=\"center\">19<\/td><td align=\"center\">FW<\/td><td>"+flg1alg+" <b>Islam Slimani<\/b><\/td><\/tr>";
 sq20	= "<tr><td align=\"center\">20<\/td><td align=\"center\">FW<\/td><td>"+flg1jpn+" <b>Shinji Okazaki<\/b><\/td><\/tr>";
 sq21	= "<tr><td align=\"center\">21<\/td><td align=\"center\">GK<\/td><td>"+flg1ger+" <b>Ron-Robert Zieler<\/b><\/td><\/tr>";
 sq22	= "<tr><td align=\"center\">22<\/td><td align=\"center\">MF<\/td><td>"+flg1eng+" <b>Demarai Gray<\/b><\/td><\/tr>";
@@ -21,9 +23,7 @@ sq24	= "<tr><td align=\"center\">24<\/td><td align=\"center\">MF<\/td><td>"+flg1
 sq26	= "<tr><td align=\"center\">26<\/td><td align=\"center\">MF<\/td><td>"+flg1alg+" <b>Riyad Mahrez<\/b><\/td><\/tr>";
 sq27	= "<tr><td align=\"center\">27<\/td><td align=\"center\">DF<\/td><td>"+flg1pol+" <b>Marcin Wasilewski<\/b><\/td><\/tr>";
 sq28	= "<tr><td align=\"center\">28<\/td><td align=\"center\">DF<\/td><td>"+flg1aut+" <b>Christian Fuchs<\/b><\/td><\/tr>";
-	
-	
-	
+sq29	= "<tr><td align=\"center\">29<\/td><td align=\"center\">DF<\/td><td>"+flg1tun+" <b>Yohan Benalouane<\/b><\/td><\/tr>";
 	
 	
 	
@@ -80,7 +80,7 @@ vicecap	= "<br>"+flg1den+" <b>Kasper Schmeichel<\/b> (<i>Vice-captain<\/i>)";
 	
 	
 	
-lastud	= "26 "+Aug+" 2016";
-table1	= ""+sq1+""+sq2+""+sq3+""+sq4+""+sq5+""+sq6+""+sq7+""+sq8+""+sq9+""+sq10+""+sq11+""+sq13+"";
-table2	= ""+sq14+""+sq15+""+sq17+""+sq20+""+sq21+""+sq22+""+sq23+""+sq24+""+sq26+""+sq27+""+sq28+"<tr><td colspan=\"3\" align=\"center\">-<\/td><\/tr>";
+lastud	= "(Closing Transfer, 1 Sep 2016)";
+table1	= ""+sq1+""+sq2+""+sq3+""+sq4+""+sq5+""+sq6+""+sq7+""+sq8+""+sq9+""+sq10+""+sq11+""+sq12+""+sq13+"";
+table2	= ""+sq14+""+sq15+""+sq17+""+sq19+""+sq20+""+sq21+""+sq22+""+sq23+""+sq24+""+sq26+""+sq27+""+sq28+""+sq29+"";
 notetim	= ""+captain+""+vicecap+"";

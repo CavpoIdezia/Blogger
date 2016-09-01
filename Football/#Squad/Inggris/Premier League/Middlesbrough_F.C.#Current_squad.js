@@ -12,22 +12,22 @@ sq11	= "<tr><td align=\"center\">11<\/td><td align=\"center\">FW<\/td><td>"+flg1
 sq12	= "<tr><td align=\"center\">12<\/td><td align=\"center\">GK<\/td><td>"+flg1usa+" <b>Brad Guzan<\/b><\/td><\/tr>";
 sq13	= "<tr><td align=\"center\">13<\/td><td align=\"center\">GK<\/td><td>"+flg1esp+" <b>Tomás Mejías<\/b><\/td><\/tr>";
 sq14	= "<tr><td align=\"center\">14<\/td><td align=\"center\">MF<\/td><td>"+flg1ned+" <b>Marten de Roon<\/b><\/td><\/tr>";
-sq15	= "<tr><td align=\"center\">15<\/td><td align=\"center\">DF<\/td><td>"+flg1eng+" <b>Alex Baptiste<\/b><\/td><\/tr>";
 sq16	= "<tr><td align=\"center\">16<\/td><td align=\"center\">MF<\/td><td>"+flg1uru+" <b>Carlos de Pena<\/b><\/td><\/tr>";
 sq17	= "<tr><td align=\"center\">17<\/td><td align=\"center\">DF<\/td><td>"+flg1esp+" <b>Antonio Barragán<\/b><\/td><\/tr>";
 sq18	= "<tr><td align=\"center\">18<\/td><td align=\"center\">FW<\/td><td>"+flg1uru+" <b>Cristhian Stuani<\/b><\/td><\/tr>";
 sq19	= "<tr><td align=\"center\">19<\/td><td align=\"center\">MF<\/td><td>"+flg1eng+" <b>Stewart Downing<\/b><\/td><\/tr>";
-sq20	= "<tr><td align=\"center\">20<\/td><td align=\"center\">MF<\/td><td>"+flg1eng+" <b>Adam Reach<\/b><\/td><\/tr>";
 sq21	= "<tr><td align=\"center\">21<\/td><td align=\"center\">MF<\/td><td>"+flg1uru+" <b>Gastón Ramírez<\/b><\/td><\/tr>";
-sq22	= "<tr><td align=\"center\">22<\/td><td align=\"center\">DF<\/td><td>"+flg1eng+" <b>Dael Fry<\/b><\/td><\/tr>";
 sq23	= "<tr><td align=\"center\">23<\/td><td align=\"center\">MF<\/td><td>"+flg1bel+" <b>Julien De Sart<\/b><\/td><\/tr>";
 sq24	= "<tr><td align=\"center\">24<\/td><td align=\"center\">DF<\/td><td>"+flg1eqg+" <b>Emilio Nsue<\/b><\/td><\/tr>";
+sq25	= "<tr><td align=\"center\">25<\/td><td align=\"center\">DF<\/td><td>"+flg1eng+" <b>Calum Chambers<\/b><\/td><\/tr>";
 sq26	= "<tr><td align=\"center\">26<\/td><td align=\"center\">GK<\/td><td>"+flg1esp+" <b>Víctor Valdés<\/b><\/td><\/tr>";
-sq27	= "<tr><td align=\"center\">27<\/td><td align=\"center\">MF<\/td><td>"+flg1gha+" <b>Albert Adomah<\/b><\/td><\/tr>";
-sq29	= "<tr><td align=\"center\">29<\/td><td align=\"center\">MF<\/td><td>"+flg1eng+" <b>Bryn Morris<\/b><\/td><\/tr>";
 sq34	= "<tr><td align=\"center\">34<\/td><td align=\"center\">MF<\/td><td>"+flg1eng+" <b>Adam Forshaw<\/b><\/td><\/tr>";
 sq35	= "<tr><td align=\"center\">35<\/td><td align=\"center\">FW<\/td><td>"+flg1eng+" <b>David Nugent<\/b><\/td><\/tr>";
+sq37	= "<tr><td align=\"center\">37<\/td><td align=\"center\">FW<\/td><td>"+flg1esp+" <b>Adama Traoré<\/b><\/td><\/tr>";
 sq40	= "<tr><td align=\"center\">40<\/td><td align=\"center\">DF<\/td><td>"+flg1eng+" <b>James Husband<\/b><\/td><\/tr>";
+	
+	
+	
 	
 	
 	
@@ -70,6 +70,7 @@ vicecap	= "<br>"+flg1eng+" <b>George Friend<\/b> (<i>Vice-captain<\/i>)";
 	
 	
 loan1	= "<br>"+flg1esp+" <b>Álvaro Negredo<\/b> (<i>"+onloan+" <a href=\"http://www.idezia.com/2016/07/Valencia.C.F.2016-17.Skuad.dan.Pemain.html\">Valencia<\/a><\/i>)";
+loan2	= "<br>"+flg1eng+" <b>Calum Chambers<\/b> (<i>"+onloan+" <a href=\"http://www.idezia.com/2016/06/Arsenal.F.C.2016-17.Skuad.html\">Arsenal<\/a><\/i>)";
 	
 	
 	
@@ -79,8 +80,7 @@ loan1	= "<br>"+flg1esp+" <b>Álvaro Negredo<\/b> (<i>"+onloan+" <a href=\"http:/
 	
 	
 	
-	
-lastud	= "26 "+Aug+" 2016";
-table1	= ""+sq1+""+sq2+""+sq3+""+sq4+""+sq5+""+sq6+""+sq7+""+sq8+""+sq9+""+sq10+""+sq11+""+sq12+""+sq13+""+sq14+""+sq15+"";
-table2	= ""+sq16+""+sq17+""+sq18+""+sq19+""+sq20+""+sq21+""+sq22+""+sq23+""+sq24+""+sq26+""+sq27+""+sq29+""+sq34+""+sq35+""+sq40+"";
-notetim	= ""+captain+""+vicecap+""+loan1+"";
+lastud	= "(Closing Transfer, 1 Sep 2016)";
+table1	= ""+sq1+""+sq2+""+sq3+""+sq4+""+sq5+""+sq6+""+sq7+""+sq8+""+sq9+""+sq10+""+sq11+""+sq12+""+sq13+""+sq14+"";
+table2	= ""+sq16+""+sq17+""+sq18+""+sq19+""+sq21+""+sq23+""+sq24+""+sq25+""+sq26+""+sq34+""+sq35+""+sq37+""+sq40+"<tr><td colspan=\"3\" align=\"center\">-<\/td><\/tr>";
+notetim	= ""+captain+""+vicecap+""+loan1+""+loan2+"";

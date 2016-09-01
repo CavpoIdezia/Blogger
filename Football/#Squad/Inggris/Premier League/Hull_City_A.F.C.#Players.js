@@ -16,18 +16,18 @@ sq16	= "<tr><td align=\"center\">16<\/td><td align=\"center\">GK<\/td><td>"+flg1
 sq20	= "<tr><td align=\"center\">20<\/td><td align=\"center\">FW<\/td><td>"+flg1nor+" <b>Adama Diomandé<\/b><\/td><\/tr>";
 sq21	= "<tr><td align=\"center\">21<\/td><td align=\"center\">DF<\/td><td>"+flg1eng+" <b>Michael Dawson<\/b><\/td><\/tr>";
 sq27	= "<tr><td align=\"center\">27<\/td><td align=\"center\">MF<\/td><td>"+flg1egy+" <b>Ahmed Elmohamady<\/b><\/td><\/tr>";
-sq28	= "<tr><td align=\"center\">28<\/td><td align=\"center\">DF<\/td><td>"+flg1eng+" <b>Josh Tymon<\/b><\/td><\/tr>";
-sq29	= "<tr><td align=\"center\">29<\/td><td align=\"center\">FW<\/td><td>"+flg1eng+" <b>Jarrod Bowen<\/b><\/td><\/tr>";
-sq30	= "<tr><td align=\"center\">30<\/td><td align=\"center\">MF<\/td><td>"+flg1eng+" <b>Daniel Batty<\/b><\/td><\/tr>";
-sq31	= "<tr><td align=\"center\">31<\/td><td align=\"center\">DF<\/td><td>"+flg1irl+" <b>Brian Lenihan<\/b><\/td><\/tr>";
-sq32	= "<tr><td align=\"center\">32<\/td><td align=\"center\">FW<\/td><td>"+flg1eng+" <b>Greg Luer<\/b><\/td><\/tr>";
-sq33	= "<tr><td align=\"center\">33<\/td><td align=\"center\">FW<\/td><td>"+flg1eng+" <b>Johan Ter Horst<\/b><\/td><\/tr>";
-sq34	= "<tr><td align=\"center\">34<\/td><td align=\"center\">MF<\/td><td>"+flg1eng+" <b>Ellis Barkworth<\/b><\/td><\/tr>";
-sq35	= "<tr><td align=\"center\">35<\/td><td align=\"center\">GK<\/td><td>"+flg1eng+" <b>Will Mannion<\/b><\/td><\/tr>";
-sq36	= "<tr><td align=\"center\">36<\/td><td align=\"center\">MF<\/td><td>"+flg1eng+" <b>Greg Olley<\/b><\/td><\/tr>";
-sq37	= "<tr><td align=\"center\">37<\/td><td align=\"center\">DF<\/td><td>"+flg1eng+" <b>Josh Clackstone<\/b><\/td><\/tr>";
-sq38	= "<tr><td align=\"center\">38<\/td><td align=\"center\">DF<\/td><td>"+flg1eng+" <b>Harvey Rodgers<\/b><\/td><\/tr>";
-sq39	= "<tr><td align=\"center\">39<\/td><td align=\"center\">FW<\/td><td>"+flg1eng+" <b>Ben Hinchliffe<\/b><\/td><\/tr>";
+sqx1	= "<tr><td align=\"center\">—<\/td><td align=\"center\">GK<\/td><td>"+flg1sco+" <b>David Marshall<\/b><\/td><\/tr>";
+sqx2	= "<tr><td align=\"center\">—<\/td><td align=\"center\">MF<\/td><td>"+flg1nor+" <b>Markus Henriksen<\/b><\/td><\/tr>";
+sqx3	= "<tr><td align=\"center\">—<\/td><td align=\"center\">MF<\/td><td>"+flg1eng+" <b>Ryan Mason<\/b><\/td><\/tr>";
+sqx4	= "<tr><td align=\"center\">—<\/td><td align=\"center\">MF<\/td><td>"+flg1eng+" <b>James Weir<\/b><\/td><\/tr>";
+sqx5	= "<tr><td align=\"center\">—<\/td><td align=\"center\">FW<\/td><td>"+flg1eng+" <b>Will Keane<\/b><\/td><\/tr>";
+sqx6	= "<tr><td align=\"center\">—<\/td><td align=\"center\">FW<\/td><td>"+flg1cod+" <b>Dieumerci Mbokani<\/b><\/td><\/tr>";
+	
+	
+	
+	
+	
+	
 	
 	
 	
@@ -69,6 +69,8 @@ captain	= "<br>"+flg1eng+" <b>Michael Dawson<\/b> (<i>Captain<\/i>)";
 	
 	
 	
+loan1	= "<br>"+flg1nor+" <b>Markus Henriksen<\/b> (<i>"+onloan+" <a href=\"http://www.idezia.com/2016/07/AZ.Alkmaar.2016-17.Squad.html\">AZ Alkmaar<\/a><\/i>)";
+loan2	= "<br>"+flg1cod+" <b>Dieumerci Mbokani<\/b> (<i>"+onloan+" Dynamo Kyiv<\/i>)";
 	
 	
 	
@@ -78,9 +80,7 @@ captain	= "<br>"+flg1eng+" <b>Michael Dawson<\/b> (<i>Captain<\/i>)";
 	
 	
 	
-	
-	
-lastud	= "26 "+Aug+" 2016";
-table1	= ""+sq1+""+sq2+""+sq3+""+sq4+""+sq5+""+sq6+""+sq7+""+sq8+""+sq9+""+sq10+""+sq11+""+sq12+""+sq14+""+sq15+""+sq16+"";
-table2	= ""+sq20+""+sq21+""+sq27+""+sq28+""+sq29+""+sq30+""+sq31+""+sq32+""+sq33+""+sq34+""+sq35+""+sq36+""+sq37+""+sq38+""+sq39+"";
-notetim	= ""+captain+"";
+lastud	= "(Closing Transfer, 1 Sep 2016)";
+table1	= ""+sq1+""+sq2+""+sq3+""+sq4+""+sq5+""+sq6+""+sq7+""+sq8+""+sq9+""+sq10+""+sq11+""+sq12+"";
+table2	= ""+sq14+""+sq15+""+sq16+""+sq20+""+sq21+""+sq27+""+sqx1+""+sqx2+""+sqx3+""+sqx4+""+sqx5+""+sqx6+"";
+notetim	= ""+captain+""+loan1+""+loan2+"";
