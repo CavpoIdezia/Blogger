@@ -15,16 +15,16 @@ sq16	= "<tr><td align=\"center\">16<\/td><td align=\"center\">MF<\/td><td>"+flg1
 sq18	= "<tr><td align=\"center\">18<\/td><td align=\"center\">GK<\/td><td>"+flg1rou+" <b>Bogdan Lobonț<\/b><\/td><\/tr>";
 sq19	= "<tr><td align=\"center\">19<\/td><td align=\"center\">GK<\/td><td>"+flg1bra+" <b>Alisson<\/b><\/td><\/tr>";
 sq20	= "<tr><td align=\"center\">20<\/td><td align=\"center\">DF<\/td><td>"+flg1arg+" <b>Federico Fazio<\/b><\/td><\/tr>";
-sq21	= "<tr><td align=\"center\">21<\/td><td align=\"center\">MF<\/td><td>"+flg1fra+" <b>William Vainqueur<\/b><\/td><\/tr>";
 sq22	= "<tr><td align=\"center\">22<\/td><td align=\"center\">DF<\/td><td>"+flg1por+" <b>Mário Rui<\/b><\/td><\/tr>";
 sq24	= "<tr><td align=\"center\">24<\/td><td align=\"center\">MF<\/td><td>"+flg1ita+" <b>Alessandro Florenzi<\/b><\/td><\/tr>";
-sq27	= "<tr><td align=\"center\">27<\/td><td align=\"center\">FW<\/td><td>"+flg1ita+" <b>Federico Ricci<\/b><\/td><\/tr>";
 sq30	= "<tr><td align=\"center\">30<\/td><td align=\"center\">MF<\/td><td>"+flg1bra+" <b>Gerson<\/b><\/td><\/tr>";
 sq33	= "<tr><td align=\"center\">33<\/td><td align=\"center\">DF<\/td><td>"+flg1bra+" <b>Emerson<\/b><\/td><\/tr>";
-sq35	= "<tr><td align=\"center\">35<\/td><td align=\"center\">DF<\/td><td>"+flg1gre+" <b>Vasilis Torosidis<\/b><\/td><\/tr>";
 sq44	= "<tr><td align=\"center\">44<\/td><td align=\"center\">DF<\/td><td>"+flg1gre+" <b>Kostas Manolas<\/b><\/td><\/tr>";
 sq92	= "<tr><td align=\"center\">92<\/td><td align=\"center\">FW<\/td><td>"+flg1ita+" <b>Stephan El Shaarawy<\/b><\/td><\/tr>";
-sq97	= "<tr><td align=\"center\">97<\/td><td align=\"center\">FW<\/td><td>"+flg1nga+" <b>Umar Sadiq<\/b><\/td><\/tr>";
+	
+	
+	
+	
 	
 	
 	
@@ -80,7 +80,7 @@ loan7	= "<br>"+flg1bra+" <b>Emerson<\/b> (<i>"+onloan+" Santos<\/i>)";
 	
 	
 	
-lastud	= "26 "+Aug+" 2016";
-table1	= ""+sq1+""+sq2+""+sq3+""+sq4+""+sq5+""+sq6+""+sq7+""+sq8+""+sq9+""+sq10+""+sq11+""+sq13+""+sq15+""+sq16+"";
-table2	= ""+sq18+""+sq19+""+sq20+""+sq21+""+sq22+""+sq24+""+sq27+""+sq30+""+sq33+""+sq35+""+sq44+""+sq92+""+sq97+"<tr><td colspan=\"3\" align=\"center\">-<\/td><\/tr>";
+lastud	= "(Closing Transfer, 1 Sep 2016)";
+table1	= ""+sq1+""+sq2+""+sq3+""+sq4+""+sq5+""+sq6+""+sq7+""+sq8+""+sq9+""+sq10+""+sq11+""+sq13+"";
+table2	= ""+sq15+""+sq16+""+sq18+""+sq19+""+sq20+""+sq22+""+sq24+""+sq30+""+sq33+""+sq44+""+sq92+"<tr><td colspan=\"3\" align=\"center\">-<\/td><\/tr>";
 notetim	= ""+captain+""+vicecap+""+thicapt+""+loan1+""+loan2+""+loan3+""+loan4+""+loan5+""+loan6+""+loan7+"";

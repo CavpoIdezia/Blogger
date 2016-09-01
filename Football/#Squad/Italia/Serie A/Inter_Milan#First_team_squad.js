@@ -1,6 +1,7 @@
 ﻿sq1	= "<tr><td align=\"center\">1<\/td><td align=\"center\">GK<\/td><td>"+flg1svn+" <b>Samir Handanović<\/b><\/td><\/tr>";
 sq2	= "<tr><td align=\"center\">2<\/td><td align=\"center\">DF<\/td><td>"+flg1ita+" <b>Marco Andreolli<\/b><\/td><\/tr>";
 sq5	= "<tr><td align=\"center\">5<\/td><td align=\"center\">MF<\/td><td>"+flg1bra+" <b>Felipe Melo<\/b><\/td><\/tr>";
+sq6	= "<tr><td align=\"center\">6<\/td><td align=\"center\">MF<\/td><td>"+flg1por+" <b>João Mário<\/b><\/td><\/tr>";
 sq7	= "<tr><td align=\"center\">7<\/td><td align=\"center\">MF<\/td><td>"+flg1fra+" <b>Geoffrey Kondogbia<\/b><\/td><\/tr>";
 sq8	= "<tr><td align=\"center\">8<\/td><td align=\"center\">FW<\/td><td>"+flg1arg+" <b>Rodrigo Palacio<\/b><\/td><\/tr>";
 sq9	= "<tr><td align=\"center\">9<\/td><td align=\"center\">FW<\/td><td>"+flg1arg+" <b>Mauro Icardi<\/b><\/td><\/tr>";
@@ -9,7 +10,6 @@ sq11	= "<tr><td align=\"center\">11<\/td><td align=\"center\">FW<\/td><td>"+flg1
 sq13	= "<tr><td align=\"center\">13<\/td><td align=\"center\">DF<\/td><td>"+flg1ita+" <b>Andrea Ranocchia<\/b><\/td><\/tr>";
 sq15	= "<tr><td align=\"center\">15<\/td><td align=\"center\">DF<\/td><td>"+flg1arg+" <b>Cristian Ansaldi<\/b><\/td><\/tr>";
 sq17	= "<tr><td align=\"center\">17<\/td><td align=\"center\">MF<\/td><td>"+flg1chi+" <b>Gary Medel<\/b><\/td><\/tr>";
-sq18	= "<tr><td align=\"center\">18<\/td><td align=\"center\">DF<\/td><td>"+flg1tur+" <b>Caner Erkin<\/b><\/td><\/tr>";
 sq19	= "<tr><td align=\"center\">19<\/td><td align=\"center\">MF<\/td><td>"+flg1arg+" <b>Éver Banega<\/b><\/td><\/tr>";
 sq21	= "<tr><td align=\"center\">21<\/td><td align=\"center\">DF<\/td><td>"+flg1ita+" <b>Davide Santon<\/b><\/td><\/tr>";
 sq23	= "<tr><td align=\"center\">23<\/td><td align=\"center\">FW<\/td><td>"+flg1ita+" <b>Éder<\/b><\/td><\/tr>";
@@ -25,8 +25,8 @@ sq77	= "<tr><td align=\"center\">77<\/td><td align=\"center\">MF<\/td><td>"+flg1
 sq87	= "<tr><td align=\"center\">87<\/td><td align=\"center\">MF<\/td><td>"+flg1ita+" <b>Antonio Candreva<\/b><\/td><\/tr>";
 sq94	= "<tr><td align=\"center\">94<\/td><td align=\"center\">DF<\/td><td>"+flg1civ+" <b>Yao<\/b><\/td><\/tr>";
 sq95	= "<tr><td align=\"center\">95<\/td><td align=\"center\">DF<\/td><td>"+flg1bel+" <b>Senna Miangue<\/b><\/td><\/tr>";
-sq98	= "<tr><td align=\"center\">98<\/td><td align=\"center\">GK<\/td><td>"+flg1rou+" <b>Ionuț Radu<\/b><\/td><\/tr>";
-	
+sq97	= "<tr><td align=\"center\">97<\/td><td align=\"center\">GK<\/td><td>"+flg1rou+" <b>Ionuț Radu<\/b><\/td><\/tr>";
+sqx1	= "<tr><td align=\"center\">—<\/td><td align=\"center\">FW<\/td><td>"+flg1bra+" <b>Gabriel<\/b><\/td><\/tr>";
 	
 	
 	
@@ -80,7 +80,7 @@ loan1	= "<br>"+flg1ita+" <b>Éder<\/b> (<i>"+onloan+" <a href=\"http://www.idezi
 	
 	
 	
-lastud	= "26 "+Aug+" 2016";
-table1	= ""+sq1+""+sq2+""+sq5+""+sq7+""+sq8+""+sq9+""+sq10+""+sq11+""+sq13+""+sq15+""+sq17+""+sq18+""+sq19+""+sq21+"";
-table2	= ""+sq23+""+sq24+""+sq25+""+sq27+""+sq30+""+sq33+""+sq44+""+sq46+""+sq55+""+sq77+""+sq87+""+sq94+""+sq95+""+sq98+"";
+lastud	= "(Closing Transfer, 1 Sep 2016)";
+table1	= ""+sq1+""+sq2+""+sq5+""+sq6+""+sq7+""+sq8+""+sq9+""+sq10+""+sq11+""+sq13+""+sq15+""+sq17+""+sq19+""+sq21+""+sq23+"";
+table2	= ""+sq24+""+sq25+""+sq27+""+sq30+""+sq33+""+sq44+""+sq46+""+sq55+""+sq77+""+sq87+""+sq94+""+sq95+""+sq97+""+sqx1+"<tr><td colspan=\"3\" align=\"center\">-<\/td><\/tr>";
 notetim	= ""+captain+""+vicecap+""+loan1+"";
