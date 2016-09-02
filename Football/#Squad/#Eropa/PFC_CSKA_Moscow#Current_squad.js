@@ -1,5 +1,5 @@
 ﻿sq1	= "<tr><td align=\"center\">1<\/td><td align=\"center\">GK<\/td><td>"+flg1rus+" <b>Sergei Chepchugov<\/b><\/td><\/tr>";
-sq2	= "<tr><td align=\"center\">2<\/td><td align=\"center\">DF<\/td><td>"+flg1bra+" <b>Mário Fernandes<\/b><\/td><\/tr>";
+sq2	= "<tr><td align=\"center\">2<\/td><td align=\"center\">DF<\/td><td>"+flg1rus+" <b>Mário Fernandes<\/b><\/td><\/tr>";
 sq3	= "<tr><td align=\"center\">3<\/td><td align=\"center\">MF<\/td><td>"+flg1swe+" <b>Pontus Wernbloom<\/b><\/td><\/tr>";
 sq4	= "<tr><td align=\"center\">4<\/td><td align=\"center\">DF<\/td><td>"+flg1rus+" <b>Sergei Ignashevich<\/b><\/td><\/tr>";
 sq6	= "<tr><td align=\"center\">6<\/td><td align=\"center\">DF<\/td><td>"+flg1rus+" <b>Aleksei Berezutski<\/b><\/td><\/tr>";
@@ -80,7 +80,7 @@ loan1	= "<br>"+flg1civ+" <b>Lacina Traoré<\/b> (<i>"+onloan+" <a href=\"http://
 	
 	
 	
-lastud	= "21 "+Aug+" 2016";
+lastud	= "(Closing Transfer, 1 "+Sep+" 2016)";
 table1	= ""+sq1+""+sq2+""+sq3+""+sq4+""+sq6+""+sq7+""+sq8+""+sq9+""+sq10+""+sq11+"";
 table2	= ""+sq14+""+sq17+""+sq19+""+sq23+""+sq24+""+sq25+""+sq35+""+sq42+""+sq66+"<tr><td colspan=\"3\" align=\"center\">-<\/td><\/tr>";
 notetim	= ""+vicecap+""+loan1+"";
