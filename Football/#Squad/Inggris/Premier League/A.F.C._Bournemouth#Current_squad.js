@@ -12,7 +12,6 @@ sq11	= "<tr><td align=\"center\">11<\/td><td align=\"center\">DF<\/td><td>"+flg1
 sq13	= "<tr><td align=\"center\">13<\/td><td align=\"center\">FW<\/td><td>"+flg1eng+" <b>Callum Wilson<\/b><\/td><\/tr>";
 sq14	= "<tr><td align=\"center\">14<\/td><td align=\"center\">DF<\/td><td>"+flg1aus+" <b>Brad Smith<\/b><\/td><\/tr>";
 sq15	= "<tr><td align=\"center\">15<\/td><td align=\"center\">DF<\/td><td>"+flg1eng+" <b>Adam Smith<\/b><\/td><\/tr>";
-sq16	= "<tr><td align=\"center\">16<\/td><td align=\"center\">MF<\/td><td>"+flg1eng+" <b>Jack Wilshere<\/b><\/td><\/tr>";
 sq17	= "<tr><td align=\"center\">17<\/td><td align=\"center\">MF<\/td><td>"+flg1nor+" <b>Joshua King<\/b><\/td><\/tr>";
 sq18	= "<tr><td align=\"center\">18<\/td><td align=\"center\">MF<\/td><td>"+flg1eng+" <b>Lewis Cook<\/b><\/td><\/tr>";
 sq19	= "<tr><td align=\"center\">19<\/td><td align=\"center\">MF<\/td><td>"+flg1eng+" <b>Junior Stanislas<\/b><\/td><\/tr>";
@@ -24,6 +23,7 @@ sq24	= "<tr><td align=\"center\">24<\/td><td align=\"center\">MF<\/td><td>"+flg1
 sq26	= "<tr><td align=\"center\">26<\/td><td align=\"center\">DF<\/td><td>"+flg1eng+" <b>Tyrone Mings<\/b><\/td><\/tr>";
 sq28	= "<tr><td align=\"center\">28<\/td><td align=\"center\">FW<\/td><td>"+flg1jam+" <b>Lewis Grabban<\/b><\/td><\/tr>";
 sq31	= "<tr><td align=\"center\">31<\/td><td align=\"center\">FW<\/td><td>"+flg1fra+" <b>Lys Mousset<\/b><\/td><\/tr>";
+sq32	= "<tr><td align=\"center\">32<\/td><td align=\"center\">MF<\/td><td>"+flg1eng+" <b>Jack Wilshere<\/b><\/td><\/tr>";
 sq33	= "<tr><td align=\"center\">33<\/td><td align=\"center\">MF<\/td><td>"+flg1eng+" <b>Jordon Ibe<\/b><\/td><\/tr>";
 	
 	
@@ -63,7 +63,7 @@ sq33	= "<tr><td align=\"center\">33<\/td><td align=\"center\">MF<\/td><td>"+flg1
 	
 	
 	
-captain	= "<br>"+flg1eng+" <b>Simon Francis<\/b> (<i>Captain<\/i>)";
+	
 	
 	
 	
@@ -80,7 +80,7 @@ loan2	= "<br>"+flg1eng+" <b>Jack Wilshere<\/b> (<i>"+onloan+" <a href=\"http://w
 	
 	
 	
-lastud	= "(Closing Transfer, 1 Sep 2016)";
+lastud	= "(Closing Transfer, 1 "+Sep+" 2016)";
 table1	= ""+sq1+""+sq2+""+sq3+""+sq4+""+sq5+""+sq6+""+sq7+""+sq8+""+sq9+""+sq10+""+sq11+""+sq13+""+sq14+""+sq15+"";
-table2	= ""+sq16+""+sq17+""+sq18+""+sq19+""+sq20+""+sq21+""+sq22+""+sq23+""+sq24+""+sq26+""+sq28+""+sq31+""+sq33+"<tr><td colspan=\"3\" align=\"center\">-<\/td><\/tr>";
-notetim	= ""+captain+""+loan1+""+loan2+"";
+table2	= ""+sq17+""+sq18+""+sq19+""+sq20+""+sq21+""+sq22+""+sq23+""+sq24+""+sq26+""+sq28+""+sq31+""+sq32+""+sq33+"<tr><td colspan=\"3\" align=\"center\">-<\/td><\/tr>";
+notetim	= ""+loan1+""+loan2+"";

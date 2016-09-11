@@ -80,7 +80,7 @@ loan4	= "<br>"+flg1bel+" <b>Sven Kums<\/b> (<i>"+onloan+" Gent<\/i>)";
 	
 	
 	
-lastud	= "(Closing Transfer, 1 Sep 2016)";
+lastud	= "(Closing Transfer, 1 "+Sep+" 2016)";
 table1	= ""+sq1+""+sq2+""+sq3+""+sq4+""+sq5+""+sq6+""+sq7+""+sq8+""+sq9+""+sq10+""+sq11+""+sq14+""+sq18+""+sq19+""+sq20+"";
 table2	= ""+sq22+""+sq23+""+sq25+""+sq27+""+sq30+""+sq33+""+sq37+""+sq53+""+sq75+""+sq77+""+sq88+""+sq95+""+sq96+""+sq99+"<tr><td colspan=\"3\" align=\"center\">-<\/td><\/tr>";
 notetim	= ""+loan1+""+loan2+""+loan3+""+loan4+"";

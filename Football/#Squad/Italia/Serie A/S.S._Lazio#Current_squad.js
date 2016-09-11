@@ -80,7 +80,7 @@ vicecap	= "<br>"+flg1rou+" <b>Ștefan Radu<\/b> (<i>Vice-captain<\/i>)";
 	
 	
 	
-lastud	= "(Closing Transfer, 1 Sep 2016)";
+lastud	= "(Closing Transfer, 1 "+Sep+" 2016)";
 table1	= ""+sq1+""+sq2+""+sq3+""+sq4+""+sq5+""+sq6+""+sq7+""+sq8+""+sq9+""+sq10+""+sq11+""+sq13+""+sq14+""+sq15+""+sq16+"";
 table2	= ""+sq17+""+sq18+""+sq19+""+sq20+""+sq21+""+sq22+""+sq23+""+sq25+""+sq26+""+sq27+""+sq44+""+sq55+""+sq71+""+sqx1+""+sqx2+"";
 notetim	= ""+captain+""+vicecap+"";

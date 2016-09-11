@@ -25,8 +25,8 @@ sq77	= "<tr><td align=\"center\">77<\/td><td align=\"center\">MF<\/td><td>"+flg1
 sq87	= "<tr><td align=\"center\">87<\/td><td align=\"center\">MF<\/td><td>"+flg1ita+" <b>Antonio Candreva<\/b><\/td><\/tr>";
 sq94	= "<tr><td align=\"center\">94<\/td><td align=\"center\">DF<\/td><td>"+flg1civ+" <b>Yao<\/b><\/td><\/tr>";
 sq95	= "<tr><td align=\"center\">95<\/td><td align=\"center\">DF<\/td><td>"+flg1bel+" <b>Senna Miangue<\/b><\/td><\/tr>";
+sq96	= "<tr><td align=\"center\">96<\/td><td align=\"center\">FW<\/td><td>"+flg1bra+" <b>Gabriel<\/b><\/td><\/tr>";
 sq97	= "<tr><td align=\"center\">97<\/td><td align=\"center\">GK<\/td><td>"+flg1rou+" <b>Ionuț Radu<\/b><\/td><\/tr>";
-sqx1	= "<tr><td align=\"center\">—<\/td><td align=\"center\">FW<\/td><td>"+flg1bra+" <b>Gabriel<\/b><\/td><\/tr>";
 	
 	
 	
@@ -80,7 +80,7 @@ loan1	= "<br>"+flg1ita+" <b>Éder<\/b> (<i>"+onloan+" <a href=\"http://www.idezi
 	
 	
 	
-lastud	= "(Closing Transfer, 1 Sep 2016)";
+lastud	= "(Closing Transfer, 1 "+Sep+" 2016)";
 table1	= ""+sq1+""+sq2+""+sq5+""+sq6+""+sq7+""+sq8+""+sq9+""+sq10+""+sq11+""+sq13+""+sq15+""+sq17+""+sq19+""+sq21+""+sq23+"";
-table2	= ""+sq24+""+sq25+""+sq27+""+sq30+""+sq33+""+sq44+""+sq46+""+sq55+""+sq77+""+sq87+""+sq94+""+sq95+""+sq97+""+sqx1+"<tr><td colspan=\"3\" align=\"center\">-<\/td><\/tr>";
+table2	= ""+sq24+""+sq25+""+sq27+""+sq30+""+sq33+""+sq44+""+sq46+""+sq55+""+sq77+""+sq87+""+sq94+""+sq95+""+sq96+""+sq97+"<tr><td colspan=\"3\" align=\"center\">-<\/td><\/tr>";
 notetim	= ""+captain+""+vicecap+""+loan1+"";
